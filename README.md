@@ -9,3 +9,4 @@ The circuit includes the following:
 - BLDC Motor
 - Controlled Voltage Source
 - PID Controller
+- Desired Speed
